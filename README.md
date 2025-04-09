@@ -1,7 +1,12 @@
+<div align="right">
+  <a title="English" href="/README_EN.md">English</a>
+</div>
+
 <p align="center">
   <a href="https://typora.io/"><img src="https://i.imgur.com/3U8bJOE.png" alt="image-20210710130755511" width="150" /></a>
 </p>
-> 本主题修改自[DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)，主要是为了适配自己的风格，如需更多风格样式可以参考==原作者==。
+
+> 本主题修改自[DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)，主要是为了适配自己的风格，如需更多风格样式可以参考原作者。
 
 <hr>
 
