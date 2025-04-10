@@ -441,13 +441,6 @@ h6 {
     color: var(--title-color);
 }
 
-h3.md-focus:before,
-h4.md-focus:before,
-h5.md-focus:before,
-h6.md-focus:before {
-    visibility: hidden;
-}
-
 h1 {
     font-size: 2rem;
     text-align: center;
