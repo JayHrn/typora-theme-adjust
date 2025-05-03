@@ -54,7 +54,7 @@
     --title-color: #cbcdbf;
     --blockquote-border-color: var(--drake-accent);
     --blockquote-color: var(--text-color);
-    --blockquote-bg-color: rgba(255, 204, 102, 0.05);
+    --blockquote-bg-color: rgba(252, 198, 92, 0.05);
     --strong-color: var(--title-color);
     --h2-underline-color: var(--title-color);
     --horizontal-divider-color: var(--title-color);
@@ -348,25 +348,13 @@ var {
 }
 
 /*quote block*/
-blockquote:before {
-    display: block;
-    position: absolute;
-    content: '';
-    width: 4px;
-    left: 0;
-    top: 0;
-    height: 100%;
-    background-color: var(--blockquote-border-color);
-    border-radius: 2px;
-}
-
 blockquote {
     color: var(--blockquote-color);
-    border-radius: 2px;
+    border-radius: 8px;
     padding: 10px 16px;
     background-color: var(--blockquote-bg-color);
     position: relative;
-    border-left: none;
+    border: 1px solid var(--blockquote-border-color);
 }
 
 strong {
